@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JogoDaVelha.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "JogoDaVelha.Domain": "1.0.0"
+        },
+        "runtime": {
+          "JogoDaVelha.ConsoleApp.dll": {}
+        }
+      },
+      "JogoDaVelha.Domain/1.0.0": {
+        "runtime": {
+          "JogoDaVelha.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JogoDaVelha.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JogoDaVelha.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
